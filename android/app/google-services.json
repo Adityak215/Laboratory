@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268240137223",
+    "project_id": "authtest-e330b",
+    "storage_bucket": "authtest-e330b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268240137223:android:77fc8aac56cc1e4e0b0ea2",
+        "android_client_info": {
+          "package_name": "com.example.laboratory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268240137223-pbnb7f9j1741ck63u05vdd41fk6hj054.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEkepakybLYMkyzX-Xmvm5dRG0DWsVrcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268240137223-pbnb7f9j1741ck63u05vdd41fk6hj054.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
