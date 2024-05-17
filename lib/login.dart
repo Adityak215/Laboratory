@@ -2,8 +2,8 @@ import 'package:laboratory/myprovider.dart';
 import 'package:flutter/material.dart';
 import 'home.dart';
 import 'package:provider/provider.dart';
-import 'auth.dart';
-import 'package:firebase_auth/firebase_auth.dart';
+// import 'auth.dart';
+// import 'package:firebase_auth/firebase_auth.dart';
 
 
 class LoginPg extends StatefulWidget {

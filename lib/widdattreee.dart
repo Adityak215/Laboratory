@@ -18,9 +18,9 @@ class _WidgetTREEEState extends State<WidgetTREEE> {
       stream: Auth().authStateChanges, 
       builder: ((context, snapshot) {
         if (snapshot.hasData){
-          return Firehomie();
+          return const Firehomie();
         } else {
-          return FireloginIG();
+          return const FireloginIG();
         }
       }));
   }

@@ -1,4 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:laboratory/Testers/kav.dart';
 import 'package:laboratory/auth.dart';
 import 'package:flutter/material.dart';
 
@@ -53,6 +54,10 @@ class _FirehomieState extends State<Firehomie> {
           ],
         ),
       ),
+
+      floatingActionButton: FloatingActionButton(onPressed: () {
+        Navigator.push(context, MaterialPageRoute(builder: (context) => Day4(),));
+      },),
     );
   }
 }
