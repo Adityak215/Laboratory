@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
       theme: ThemeData(
         fontFamily: 'Sigmar',
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueGrey),
         appBarTheme:  AppBarTheme(
               backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         ),
